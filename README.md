@@ -3,9 +3,9 @@
 ## 1. Team Information
 
 - Samaresh
-  SRN: PES2UG24CS657
+  -SRN: PES2UG24CS657
 - Gurudath A N
-  SRN: PES2UG24CS663
+  -SRN: PES2UG24CS663
 
 ---
 
